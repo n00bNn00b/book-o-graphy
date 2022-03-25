@@ -6,9 +6,9 @@ const BookCard = (props) => {
   return (
     <div className="card-container">
       <img src={image} alt="" />
-      <h3>Book Name: {book_name}</h3>
-      <h3>Author: {author_name}</h3>
-      <h4>Price: {price}</h4>
+      <p>Book Name: {book_name}</p>
+      <p>Author: {author_name}</p>
+      <p>Price: ${price}</p>
       <button className="btn">Add to WishList</button>
     </div>
   );
