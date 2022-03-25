@@ -1,0 +1,156 @@
+[
+  {
+    "id": "623dd9b7f09aa4b572fd1539",
+    "price": 99,
+    "author_name": "Mary Shelly",
+    "book_name": "Frankenstein",
+    "image": "https://2f96be1b505f7f7a63c3-837c961929b51c21ec10b9658b068d6c.ssl.cf2.rackcdn.com/products/038064.jpg"
+  },
+  {
+    "id": "623dd9b7252daa3574000445",
+    "price": 48,
+    "author_name": "Robert Louis Stevenson",
+    "book_name": "The Strange Case of Dr. Jekyll and Mr Hyde",
+    "image": "https://manoflabook.com/wp/wp-content/uploads/2011/12/968159.jpg"
+  },
+  {
+    "id": "623dd9b73206038d6a4aae18",
+    "price": 166,
+    "author_name": "Agatha Christie",
+    "book_name": "Closed Casket",
+    "image": "https://static.onecms.io/wp-content/uploads/sites/6/2016/04/closedcasket_hc_rv3c-2000.jpg"
+  },
+  {
+    "id": "623dd9b752aac3c31b40d4d4",
+    "price": 157,
+    "author_name": "Agatha Christie",
+    "book_name": "The Last Seance: Tales of the Supernatural",
+    "image": "https://www.adazing.com/wp-content/uploads/2020/04/agatha.jpeg"
+  },
+  {
+    "id": "623dd9b7d3954d175011b7cd",
+    "price": 90,
+    "author_name": "Agatha Christie",
+    "book_name": "Sleeping Murder: Miss Marpele's Last Case",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61EuSfMlRRL.jpg"
+  },
+  {
+    "id": "623dd9b74f3e77f30528e17f",
+    "price": 165,
+    "author_name": "Agatha Christie",
+    "book_name": "Murder in the Mews",
+    "image": "https://agathachristie.imgix.net/hcuk-paperback/Murder-in-the-Mews.JPG?auto=compress,format&fit=clip&q=65&w=400"
+  },
+  {
+    "id": "623dd9b719fb0cf554fabfe4",
+    "price": 182,
+    "author_name": "Jules Verne",
+    "book_name": "20,000 Leagues Under the Sea",
+    "image": "http://prodimage.images-bn.com/pimages/9781435153226_p0_v1_s1200x630.jpg"
+  },
+  {
+    "id": "623dd9b77e58b0a22e180d2a",
+    "price": 141,
+    "author_name": "Jules Verne",
+    "book_name": "A Journey to the Center of the Earth",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/510zUYDWKZL._SX346_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": "623dd9b7198d512be6b0f78d",
+    "price": 186,
+    "author_name": "Jules Verne",
+    "book_name": "Mysterious Island",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/814Av04VqWL.jpg"
+  },
+  {
+    "id": "623dd9b73f370eea59b74e00",
+    "price": 140,
+    "author_name": "Jules Verne",
+    "book_name": "Around the World in Eighty Days",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51rj0QzRGUL._SX298_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": "623dd9b7faf6caf5968a67f5",
+    "price": 30,
+    "author_name": "Charles Dickens",
+    "book_name": "Oliver Twist",
+    "image": "https://kbimages1-a.akamaihd.net/d0cd222d-5653-4736-8da1-f491866f0bae/1200/1200/False/oliver-twist-by-charles-dickens.jpg"
+  },
+  {
+    "id": "623dd9b7d09ed90220609b6d",
+    "price": 192,
+    "author_name": "Charles Dickens",
+    "book_name": "Great Expectations",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81iVwwy4J8L.jpg"
+  },
+  {
+    "id": "623dd9b7f26f4877b667a3ad",
+    "price": 119,
+    "author_name": "Mark Twain",
+    "book_name": "The Adventures of Huckleberry Finn",
+    "image": "https://2.bp.blogspot.com/-NZs8kxficDc/WwlxzzZDQZI/AAAAAAACU40/jwI8eLMK0_kY1n82wlX1UwOyDi61h2tvgCLcBGAs/s1600/Mark%2BTwain_The%2BAdventures%2Bof%2BHuckleberry%2BFinn%2B001.jpg"
+  },
+  {
+    "id": "623dd9b771784a615ea06710",
+    "price": 178,
+    "author_name": "Mark Twain",
+    "book_name": "The Adventures of Tom Sawyer",
+    "image": "https://marktwainhouse.org/wp-content/uploads/2019/09/Tom-Sawyer-sterling--e1567353598720-scaled.jpg"
+  },
+  {
+    "id": "623dd9b7204df645fbbe9652",
+    "price": 57,
+    "author_name": "John Reed",
+    "book_name": "Ten Days that Shook The World",
+    "image": "https://kbimages1-a.akamaihd.net/7aad8354-7a64-4566-816d-2c3b330be24c/1200/1200/False/ten-days-that-shook-the-world-47.jpg"
+  },
+  {
+    "id": "623dd9b7c4facbe0269d78a2",
+    "price": 118,
+    "author_name": "Irish Chang",
+    "book_name": "The Rape of Nanking",
+    "image": "https://kbimages1-a.akamaihd.net/f9dc5f63-682c-4b14-99d8-6714f8057641/1200/1200/False/the-rape-of-nanking-6.jpg"
+  },
+  {
+    "id": "623dd9b793c2fe0882440cf3",
+    "price": 114,
+    "author_name": "Maxim Gorky",
+    "book_name": "Mother",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/713ojyUZMFL.jpg"
+  },
+  {
+    "id": "623dd9b73146ff8f3b792c7c",
+    "price": 71,
+    "author_name": "Maxim Gorky",
+    "book_name": "My Childhood",
+    "image": "https://kbimages1-a.akamaihd.net/336d53f7-ac27-4d38-8c44-c23f4487ecee/1200/1200/False/my-childhood-12.jpg"
+  },
+  {
+    "id": "623dd9b72540525ec99ca30c",
+    "price": 113,
+    "author_name": "Leo Tolostoy",
+    "book_name": "War and Peace",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/A1aDb5U5myL.jpg"
+  },
+  {
+    "id": "623dd9b7e22d19d025a0842b",
+    "price": 78,
+    "author_name": "Samuel P. Huntington",
+    "book_name": "The Clash of Civilizations: Remaking of World Order",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338424958l/413179.jpg"
+  },
+  {
+    "id": "623dd9b734668d3e756dca6a",
+    "price": 178,
+    "author_name": "V. I. Lenin",
+    "book_name": "The Right of Nations to Self-Determination",
+    "image": "https://www.marxist.com/images/stories/theory/classics/lenin-right-nations-self-determination.jpg"
+  },
+  {
+    "id": "623dd9b7e1119d9b3263d502",
+    "price": 175,
+    "author_name": "Karl Marx",
+    "book_name": "Das Kapital",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Z%C3%BCrich_Das_Kapital_Marx_1867.jpg/640px-Zentralbibliothek_Z%C3%BCrich_Das_Kapital_Marx_1867.jpg"
+  }
+]
