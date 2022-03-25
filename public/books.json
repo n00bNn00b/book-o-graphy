@@ -4,6 +4,7 @@
     "price": 99,
     "author_name": "Mary Shelly",
     "book_name": "Frankenstein",
+    "genre": "Gothic Fiction, Science Fiction, Science Fiction",
     "image": "https://2f96be1b505f7f7a63c3-837c961929b51c21ec10b9658b068d6c.ssl.cf2.rackcdn.com/products/038064.jpg"
   },
   {
@@ -11,6 +12,7 @@
     "price": 48,
     "author_name": "Robert Louis Stevenson",
     "book_name": "The Strange Case of Dr. Jekyll and Mr Hyde",
+    "genre": "Horror Fiction, Science Fiction, Psychological Thriller",
     "image": "https://manoflabook.com/wp/wp-content/uploads/2011/12/968159.jpg"
   },
   {
@@ -18,6 +20,7 @@
     "price": 166,
     "author_name": "Agatha Christie",
     "book_name": "Closed Casket",
+    "genre": "Mystery, Detective Novel, Historical Novel",
     "image": "https://static.onecms.io/wp-content/uploads/sites/6/2016/04/closedcasket_hc_rv3c-2000.jpg"
   },
   {
@@ -25,6 +28,7 @@
     "price": 157,
     "author_name": "Agatha Christie",
     "book_name": "The Last Seance: Tales of the Supernatural",
+    "genre": "Mystery, Historical Fiction, Crime Fiction",
     "image": "https://www.adazing.com/wp-content/uploads/2020/04/agatha.jpeg"
   },
   {
@@ -32,6 +36,7 @@
     "price": 90,
     "author_name": "Agatha Christie",
     "book_name": "Sleeping Murder: Miss Marpele's Last Case",
+    "genre": "Mystery, Detective Novel, Crime Fiction",
     "image": "https://images-na.ssl-images-amazon.com/images/I/61EuSfMlRRL.jpg"
   },
   {
@@ -39,6 +44,7 @@
     "price": 165,
     "author_name": "Agatha Christie",
     "book_name": "Murder in the Mews",
+    "genre": "Mystery, Short Story, Detective Novel",
     "image": "https://agathachristie.imgix.net/hcuk-paperback/Murder-in-the-Mews.JPG?auto=compress,format&fit=clip&q=65&w=400"
   },
   {
@@ -46,6 +52,7 @@
     "price": 182,
     "author_name": "Jules Verne",
     "book_name": "20,000 Leagues Under the Sea",
+    "genre": "Science Fiction, Adventure Fiction, Scientific Romance",
     "image": "http://prodimage.images-bn.com/pimages/9781435153226_p0_v1_s1200x630.jpg"
   },
   {
@@ -53,6 +60,7 @@
     "price": 141,
     "author_name": "Jules Verne",
     "book_name": "A Journey to the Center of the Earth",
+    "genre": "Science Fiction, Adventure Fiction, Scientific Romance",
     "image": "https://images-na.ssl-images-amazon.com/images/I/510zUYDWKZL._SX346_BO1,204,203,200_.jpg"
   },
   {
@@ -60,6 +68,7 @@
     "price": 186,
     "author_name": "Jules Verne",
     "book_name": "Mysterious Island",
+    "genre": "Science Fiction, Adventure Fiction, Scientific Romance",
     "image": "https://images-na.ssl-images-amazon.com/images/I/814Av04VqWL.jpg"
   },
   {
@@ -67,6 +76,7 @@
     "price": 140,
     "author_name": "Jules Verne",
     "book_name": "Around the World in Eighty Days",
+    "genre": "Science Fiction, Adventure Fiction, Historical Fiction",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51rj0QzRGUL._SX298_BO1,204,203,200_.jpg"
   },
   {
@@ -74,6 +84,7 @@
     "price": 30,
     "author_name": "Charles Dickens",
     "book_name": "Oliver Twist",
+    "genre": "Novel, Social Novel, Literary Fiction",
     "image": "https://kbimages1-a.akamaihd.net/d0cd222d-5653-4736-8da1-f491866f0bae/1200/1200/False/oliver-twist-by-charles-dickens.jpg"
   },
   {
@@ -81,6 +92,7 @@
     "price": 192,
     "author_name": "Charles Dickens",
     "book_name": "Great Expectations",
+    "genre": "Gothic Fiction, Fictional Autobiography, Novel",
     "image": "https://images-na.ssl-images-amazon.com/images/I/81iVwwy4J8L.jpg"
   },
   {
@@ -88,6 +100,7 @@
     "price": 119,
     "author_name": "Mark Twain",
     "book_name": "The Adventures of Huckleberry Finn",
+    "genre": "Adventure Fiction, Novel, Picaresque Novel",
     "image": "https://2.bp.blogspot.com/-NZs8kxficDc/WwlxzzZDQZI/AAAAAAACU40/jwI8eLMK0_kY1n82wlX1UwOyDi61h2tvgCLcBGAs/s1600/Mark%2BTwain_The%2BAdventures%2Bof%2BHuckleberry%2BFinn%2B001.jpg"
   },
   {
@@ -95,6 +108,7 @@
     "price": 178,
     "author_name": "Mark Twain",
     "book_name": "The Adventures of Tom Sawyer",
+    "genre": "Adventure Fiction, Novel, Picaresque Novel",
     "image": "https://marktwainhouse.org/wp-content/uploads/2019/09/Tom-Sawyer-sterling--e1567353598720-scaled.jpg"
   },
   {
@@ -102,6 +116,7 @@
     "price": 57,
     "author_name": "John Reed",
     "book_name": "Ten Days that Shook The World",
+    "genre": "Non-Fiction",
     "image": "https://kbimages1-a.akamaihd.net/7aad8354-7a64-4566-816d-2c3b330be24c/1200/1200/False/ten-days-that-shook-the-world-47.jpg"
   },
   {
@@ -109,6 +124,7 @@
     "price": 118,
     "author_name": "Irish Chang",
     "book_name": "The Rape of Nanking",
+    "genre": "Non-Fiction, War Story",
     "image": "https://kbimages1-a.akamaihd.net/f9dc5f63-682c-4b14-99d8-6714f8057641/1200/1200/False/the-rape-of-nanking-6.jpg"
   },
   {
@@ -116,6 +132,7 @@
     "price": 114,
     "author_name": "Maxim Gorky",
     "book_name": "Mother",
+    "genre": "Novel, Fiction",
     "image": "https://images-na.ssl-images-amazon.com/images/I/713ojyUZMFL.jpg"
   },
   {
@@ -123,6 +140,7 @@
     "price": 71,
     "author_name": "Maxim Gorky",
     "book_name": "My Childhood",
+    "genre": "Biography",
     "image": "https://kbimages1-a.akamaihd.net/336d53f7-ac27-4d38-8c44-c23f4487ecee/1200/1200/False/my-childhood-12.jpg"
   },
   {
@@ -130,6 +148,7 @@
     "price": 113,
     "author_name": "Leo Tolostoy",
     "book_name": "War and Peace",
+    "genre": "Novel, Historical Fiction, Philosophical Fiction",
     "image": "https://images-na.ssl-images-amazon.com/images/I/A1aDb5U5myL.jpg"
   },
   {
@@ -137,6 +156,7 @@
     "price": 78,
     "author_name": "Samuel P. Huntington",
     "book_name": "The Clash of Civilizations: Remaking of World Order",
+    "genre": "Non-Fiction, Dissertation",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338424958l/413179.jpg"
   },
   {
@@ -144,6 +164,7 @@
     "price": 178,
     "author_name": "V. I. Lenin",
     "book_name": "The Right of Nations to Self-Determination",
+    "genre": "Political Science",
     "image": "https://www.marxist.com/images/stories/theory/classics/lenin-right-nations-self-determination.jpg"
   },
   {
@@ -151,6 +172,7 @@
     "price": 175,
     "author_name": "Karl Marx",
     "book_name": "Das Kapital",
+    "genre": "Political Science, Economy, Treatise",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Z%C3%BCrich_Das_Kapital_Marx_1867.jpg/640px-Zentralbibliothek_Z%C3%BCrich_Das_Kapital_Marx_1867.jpg"
   }
 ]
