@@ -18,7 +18,7 @@ const BookStore = () => {
           <BookCard key={book.id} bookInfo={book} />
         ))}
       </div>
-      <div>
+      <div className="wishlist-container">
         <Wishlist />
       </div>
     </div>
