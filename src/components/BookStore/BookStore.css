@@ -1,5 +1,22 @@
+.body-container {
+  display: grid;
+  grid-template-columns: 4fr, 1fr;
+}
 .book-card-container {
   display: grid;
-  gap: 20px;
   grid-template-columns: repeat(3, 1fr);
+  gap: 45px;
+  margin: 100px 50px;
+}
+.wishlist-container {
+  background-color: burlywood;
+  width: 400px;
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 688px) {
+  .book-card-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
 }

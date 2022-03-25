@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import BookCard from "../BookCard/BookCard";
+import Wishlist from "../Wishlist/Wishlist";
 import "./BookStore.css";
 
 const BookStore = () => {
@@ -11,11 +12,14 @@ const BookStore = () => {
   }, []);
   console.log(books);
   return (
-    <div>
+    <div className="body-container">
       <div className="book-card-container">
         {books.map((book) => (
           <BookCard key={book.id} bookInfo={book} />
         ))}
+      </div>
+      <div>
+        <Wishlist />
       </div>
     </div>
   );

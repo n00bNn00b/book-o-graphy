@@ -8,6 +8,7 @@
   text-align: justify;
   border-radius: 10px;
   box-shadow: 20px 20px 10px 0px rgb(179, 131, 70);
+  border-left: solid 5px rgb(179, 131, 70);
 }
 .card-container img {
   height: 400px;
@@ -19,4 +20,16 @@
   height: 30px;
   border-radius: 10px;
   cursor: pointer;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 688px) {
+  .card-container {
+    height: 500px;
+    width: 250px;
+  }
+  .card-container img {
+    height: 250px;
+    width: 250px;
+  }
 }
