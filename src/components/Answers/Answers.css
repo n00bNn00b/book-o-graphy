@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+
+.answers {
+  background-color: burlywood;
+  text-align: left;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
+}

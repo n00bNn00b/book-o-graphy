@@ -1,7 +1,7 @@
 import React from "react";
 import "./Wishlist.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faTrashCan } from "@fortawesome/free-solid-svg-icons";
+import { faBookmark, faTrashCan } from "@fortawesome/free-solid-svg-icons";
 
 const Wishlist = ({ onWishList, setOnWishList }) => {
   // choose random book
@@ -33,7 +33,12 @@ const Wishlist = ({ onWishList, setOnWishList }) => {
   };
   return (
     <div className="wishlist">
-      <h2>WishList</h2>
+      <h2>
+        WishList{" "}
+        <span>
+          <FontAwesomeIcon className="wishlist-bookmark" icon={faBookmark} />
+        </span>{" "}
+      </h2>
       <div className="selected-books">
         {onWishList.map((book) => (
           <p key={book.id}>

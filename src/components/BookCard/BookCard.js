@@ -1,5 +1,7 @@
 import React from "react";
 import "./BookCard.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBookmark } from "@fortawesome/free-solid-svg-icons";
 
 const BookCard = ({ book, onWishList, setOnWishList }) => {
   const addToWishListHandler = () => {
@@ -39,6 +41,9 @@ const BookCard = ({ book, onWishList, setOnWishList }) => {
         </p>
       </div>
       <button className="btn" onClick={addToWishListHandler}>
+        <span>
+          <FontAwesomeIcon className="wishlist-bookmark" icon={faBookmark} />
+        </span>{" "}
         Add to WishList
       </button>
     </div>

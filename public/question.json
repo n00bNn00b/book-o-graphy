@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "How React Works?",
+    "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum culpa fugit saepe sed facilis quas fugiat consequatur quaerat aperiam at!"
+  },
+  {
+    "id": 2,
+    "question": "What are the differences between Props and State?",
+    "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum culpa fugit saepe sed facilis quas fugiat consequatur quaerat aperiam at!"
+  },
+  {
+    "id": 3,
+    "question": "How useState works in React?",
+    "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum culpa fugit saepe sed facilis quas fugiat consequatur quaerat aperiam at!"
+  }
+]
