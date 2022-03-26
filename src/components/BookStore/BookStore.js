@@ -5,21 +5,27 @@ import "./BookStore.css";
 
 const BookStore = () => {
   const [books, setBooks] = useState([]);
+  const [onWishList, setOnWishList] = useState([]);
   useEffect(() => {
     fetch("books.json")
       .then((res) => res.json())
       .then((data) => setBooks(data));
   }, []);
-  console.log(books);
+
   return (
     <div className="body-container">
       <div className="book-card-container">
         {books.map((book) => (
-          <BookCard key={book.id} bookInfo={book} />
+          <BookCard
+            onWishList={onWishList}
+            setOnWishList={setOnWishList}
+            key={book.id}
+            book={book}
+          />
         ))}
       </div>
       <div className="wishlist-container">
-        <Wishlist />
+        <Wishlist onWishList={onWishList} setOnWishList={setOnWishList} />
       </div>
     </div>
   );

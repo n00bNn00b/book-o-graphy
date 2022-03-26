@@ -2,3 +2,21 @@
   position: sticky;
   top: 0;
 }
+p {
+  font-weight: 600;
+}
+.wishlist-btn {
+  display: grid;
+  height: 50px;
+}
+.wishlist-btn-style {
+  margin-bottom: 20px;
+  height: 50px;
+  background-color: #b3844694;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.wishlist-btn-style:hover {
+  background-color: rgba(155, 113, 58, 0.479);
+}
