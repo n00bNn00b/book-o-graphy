@@ -2,16 +2,16 @@
   {
     "id": 1,
     "question": "How React Works?",
-    "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum culpa fugit saepe sed facilis quas fugiat consequatur quaerat aperiam at!"
+    "answer": "React is a well knowned JavaScript library developed by Facebook and it is very useful to build user interfaces. It is an open source library with a large community. React uses its own Virtual DOM. In React a developer can use HTML tags which is a feature of syntactic sugar. It is called JSX and that stands for JavaScript XML."
   },
   {
     "id": 2,
     "question": "What are the differences between Props and State?",
-    "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum culpa fugit saepe sed facilis quas fugiat consequatur quaerat aperiam at!"
+    "answer": "You can pass data from a compononent to another where state can not pass data one component to another component but within its own component only. On the other hand you can modify a state but not the props which why props is immutable and state is mutable. You can read and write a state. You can not write a props but read. Props is mostly used in function components and with the state components. On the other hand, states are only usable within the state components and class components which are before  React version 16.0"
   },
   {
     "id": 3,
     "question": "How useState works in React?",
-    "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum culpa fugit saepe sed facilis quas fugiat consequatur quaerat aperiam at!"
+    "answer": "useState is a React Hook which allows to set variables in functional components. In an application if you need to change the state of an element or component, useState is the solution for it. Using useState you do not need to change the component each time but the state which is changed via a function. It increases the user experience. To use useState you need to import it from react like this: import React, {useState} from 'react'; "
   }
 ]

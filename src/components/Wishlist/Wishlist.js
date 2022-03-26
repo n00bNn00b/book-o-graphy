@@ -42,8 +42,9 @@ const Wishlist = ({ onWishList, setOnWishList }) => {
       <div className="selected-books">
         {onWishList.map((book) => (
           <p key={book.id}>
-            {" "}
-            {book.book_name}{" "}
+            <br />
+            <img src={book.image} alt="" />
+            {book.book_name}
             <button className="trash-icon" onClick={removeSingleBook}>
               <FontAwesomeIcon className="trash-icon-fa" icon={faTrashCan} />
             </button>{" "}

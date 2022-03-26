@@ -4,9 +4,9 @@ import "./Answers.css";
 const Answers = (props) => {
   const { question, answer } = props.answers;
   return (
-    <div className="answers">
-      <p>Question:{question} </p>
-      <p>Answer: {answer} </p>
+    <div className="question-set">
+      <p className="questions">{question} </p>
+      <p className="answers">{answer} </p>
     </div>
   );
 };

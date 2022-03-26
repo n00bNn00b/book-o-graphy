@@ -37,6 +37,7 @@
 }
 .btn {
   background-color: #b3844694;
+  font-family: "Poppins", sans-serif;
   height: 40px;
   width: 100%;
   border: none;
@@ -48,6 +49,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #5d5757;
+  font-weight: 600;
 }
 .btn:hover {
   background-color: #b38446b9;
