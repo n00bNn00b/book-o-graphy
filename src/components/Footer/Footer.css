@@ -1,4 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
 footer {
   background-color: burlywood;
   height: 50px;
+  font-family: "Poppins", sans-serif;
 }
