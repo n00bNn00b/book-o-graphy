@@ -1,6 +1,7 @@
 import React from "react";
 import "./Wishlist.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTrashCan } from "@fortawesome/free-solid-svg-icons";
 
 const Wishlist = ({ onWishList, setOnWishList }) => {
   // choose random book
@@ -24,7 +25,11 @@ const Wishlist = ({ onWishList, setOnWishList }) => {
   };
   //delete single
   const removeSingleBook = () => {
-    console.log("clicked");
+    onWishList.map((book) => {
+      const restBooks = onWishList.filter((single) => single.id !== book.id);
+      // console.log(restBooks);
+      return setOnWishList(restBooks);
+    });
   };
   return (
     <div className="wishlist">
@@ -33,7 +38,10 @@ const Wishlist = ({ onWishList, setOnWishList }) => {
         {onWishList.map((book) => (
           <p key={book.id}>
             {" "}
-            {book.book_name} <button onClick={removeSingleBook}>delete</button>{" "}
+            {book.book_name}{" "}
+            <button className="trash-icon" onClick={removeSingleBook}>
+              <FontAwesomeIcon className="trash-icon-fa" icon={faTrashCan} />
+            </button>{" "}
           </p>
         ))}
       </div>

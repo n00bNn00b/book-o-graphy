@@ -2,12 +2,25 @@
   position: sticky;
   top: 0;
 }
+
 p {
   font-weight: 600;
 }
 .wishlist-btn {
   display: grid;
   height: 50px;
+}
+.trash-icon {
+  margin-bottom: 20px;
+  height: 30px;
+  width: 30px;
+  background-color: #b3844694;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.trash-icon-fa {
+  height: 20px;
 }
 .wishlist-btn-style {
   margin-bottom: 20px;

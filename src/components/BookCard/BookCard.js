@@ -11,9 +11,9 @@ const BookCard = ({ book, onWishList, setOnWishList }) => {
         }
       }
       setOnWishList([...onWishList, book]);
-      console.log(onWishList);
+      // console.log(onWishList);
     } else {
-      alert("Only 4 items");
+      alert("You can select only 4 Books!");
     }
   };
 
